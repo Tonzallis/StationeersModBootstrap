@@ -1,4 +1,4 @@
-# Stationeers Mod Bootstrap v1.0
+# Stationeers Mod Bootstrap
 
 Automatic installer for Stationeers mod dependencies.
 
@@ -13,15 +13,15 @@ Automatic installer for Stationeers mod dependencies.
 
 ## Installation
 
-1 Download:
+1. Download:
 
-Stationeers_Mod_Installer_v1.0.zip
+    ```Stationeers_Mod_Installer_v1.0.zip```
 
-2 Extract archive
+2. Extract archive
 
-3 Run:
+3. Run:
 
-install.bat
+    ```install.bat```
 
 ---
 
